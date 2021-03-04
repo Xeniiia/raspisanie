@@ -1,0 +1,28 @@
+table {
+    table-layout: fixed;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 0 auto; }
+
+th, td {
+    border: 1px solid black;
+    text-align: center; }
+
+.days {
+    width: 13px;
+    text-align: center;
+    float: left;
+    word-wrap: break-word; }
+
+.attention {
+    background-color: yellow; }
+
+.zel {
+    background-color: green;
+    height: 10px; }
+
+.d_th {
+    height: 18px; }
+
+.high {
+    height: 40px; }
